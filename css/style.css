@@ -1,6 +1,6 @@
 :root {
   --black: black;
-  --default: #dc5f00;
+  --default: #0042dc;
   --transparent: #fff0;
   --white: white;
   --border-color: #292929;
@@ -398,7 +398,7 @@
 }
 
 .w-commerce-commerceaddtocarterror {
-  background-color: #ffdede;
+  background-color: #dee1ff;
   margin-top: 10px;
   padding: 10px;
 }
@@ -1442,7 +1442,7 @@ blockquote {
 }
 
 .numbers-item.numbers-item-orange {
-  background-color: #dc5f00;
+  background-color: #0058dc;
 }
 
 .numbers-item.numbers-item-dark {
@@ -2203,7 +2203,7 @@ blockquote {
   float: none;
   color: #fff;
   text-transform: uppercase;
-  background-color: #dc5f00;
+  background-color: #0042dc;
   border: 1px solid #242424;
   border-radius: 5px;
   margin-top: 20px;
@@ -2412,15 +2412,15 @@ blockquote {
 .default-button {
   color: #000;
   text-transform: uppercase;
-  background-color: #c4ef17;
-  border: 1px solid #c4ef17;
+  background-color: #173bef;
+  border: 1px solid #173bef;
   padding: 17px 23px;
   font-weight: 600;
   transition: all .2s;
 }
 
 .default-button:hover {
-  color: #c4ef17;
+  color: #173bef;
   background-color: #000;
 }
 
